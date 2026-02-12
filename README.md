@@ -1,3 +1,3 @@
 ### Ola 👋
-- I’m currently learning: HTML, CSS, JAVASCRIPT, NODE, REACT, TYPESCRIPT, SQL
+- I’m currently learning: HTML, CSS, JAVASCRIPT, NODE, REACT, TYPESCRIPT, SQL, PYTHON, DJANGO
 
